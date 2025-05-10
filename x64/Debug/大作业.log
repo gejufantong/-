@@ -1,0 +1,5 @@
+﻿  大作业.cpp
+C:\Users\86139\source\repos\大作业\大作业\大作业.cpp(33,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\86139\source\repos\大作业\大作业\大作业.cpp(92,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86139\source\repos\大作业\大作业\大作业.cpp(98,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  大作业.vcxproj -> C:\Users\86139\source\repos\大作业\x64\Debug\大作业.exe
